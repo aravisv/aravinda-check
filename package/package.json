@@ -1,0 +1,22 @@
+{
+  "name": "@aravisv/aravinda-check",
+  "version": "1.0.1",
+  "description": "check whether the string is aravinda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravisv/aravinda-check.git"
+  },
+  "keywords": [
+    "aravinda-string-check"
+  ],
+  "author": "aravinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravisv/aravinda-check/issues"
+  },
+  "homepage": "https://github.com/aravisv/aravinda-check#readme"
+}
